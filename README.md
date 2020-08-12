@@ -36,7 +36,16 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
 ### Instructions
 
-Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
+Follow the instructions in `Navigation_dqn_solution.ipynb` to get started with training the DQN agent!  
+
+In `Navigation_dqn_solution.ipynb`, two types of agents have been implemented, i.e. DQN and double DQN. The detailed algorithm descriptions can be found in the following two papers:
+
+--Human-level control through deep reinforcement learning [this link] (https://deepmind.com/research/publications/human-level-control-through-deep-reinforcement-learning)
+-- Deep Reinforcement Learning with Double Q-learning [this link] (https://arxiv.org/abs/1509.06461)
+
+Provide the DQN and DDQN function name here.
+
+
 <!---
 ### (Optional) Challenge: Learning from Pixels
 
